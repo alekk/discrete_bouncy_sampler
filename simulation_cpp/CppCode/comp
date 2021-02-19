@@ -1,0 +1,1 @@
+g++ -o dbps dbps.cpp toy_targets.cpp -std=c++11 -O2 -Wall -larmadillo
